@@ -86,9 +86,8 @@ if (empty($_GET['refresh'])) {
 <div id="page-container">
 	<div id="header">
 		<div id="logo">
-			<h1>Amazon Web Services</h1>
-			<br>
-			<h1>EB Presentation</h1>
+			<h1>Amazon Web Services -- EB Demo 2</h1>
+			
 		</div>
 	</div>
 	<div id="main-nav">
